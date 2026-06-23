@@ -1,2 +1,2 @@
 # Git-pull
-Repositorio para practicar GIT PULL
+Repositorio para practicar GIT PULL (prueba)
